@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-11 14:10 IR
+- 🗜️ [MasterDnsVPN_Client_Termux_ARM64.zip](https://github.com/sadramm88/downloder/raw/main/dl/MasterDnsVPN_Client_Termux_ARM64.zip) `3.5MB`
+
+---
+
+
 ### 📅 2026-05-07 11:10 IR
 - 🗜️ [vllo-2-[downloadct.com].apk.zip](https://github.com/sadramm88/downloder/raw/main/dl/vllo-2-%5Bdownloadct.com%5D.apk.zip) `67.6MB`
 
