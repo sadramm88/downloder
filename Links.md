@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 11:52 IR
+- 🗜️ [v2rayN-windows-64.zip.zip](https://github.com/sadramm88/downloder/raw/main/dl/v2rayN-windows-64.zip.zip) `59.4MB`
+
+- 🗜️ [v2rayN-windows-64.zip.z01](https://github.com/sadramm88/downloder/raw/main/dl/v2rayN-windows-64.zip.z01) `95.0MB`
+
+- 🗜️ [v2rayN-windows-64.zip.zip](https://github.com/sadramm88/downloder/raw/main/dl/v2rayN-windows-64.zip.zip) `59.4MB`
+
+---
+
+
 ### 📅 2026-05-11 14:10 IR
 - 🗜️ [MasterDnsVPN_Client_Termux_ARM64.zip](https://github.com/sadramm88/downloder/raw/main/dl/MasterDnsVPN_Client_Termux_ARM64.zip) `3.5MB`
 
